@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Aerin (Phuong Anh) 🇻🇳👋
 
-<!--
-**PhuongAnh2212/PhuongAnh2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things where **technology meets aesthetics** ✨  
+Coming from a graphic design background, I care not only about how systems work — but how they *feel*.
 
-Here are some ideas to get you started:
+## ✦ About Me
+- 🎨 Former graphic designer turned developer  
+- 🤖 Interested in AI, web systems, and product thinking  
+- 🧩 Drawn to clean architecture, good UX, and visual balance  
+- 💡 I like tools that are powerful *and* beautiful
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✦ What I Do
+- 🛠 Design and build web applications  
+- ⚙️ Explore AI-assisted workflows and automation  
+- 🎯 Translate ideas from concept → interface → system
+
+## ✦ Tech Stack
+- **Languages:** JavaScript, TypeScript, Python  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Python  
+- **Cloud:** Google Cloud Platform, Vercel  
+- **AI:** LLMs, Computer Vision, Neuroscience
+
+## ✦ Let’s Connect
+- 📬 Email: **pdpa.work@gmail.com**
+
