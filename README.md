@@ -1,26 +1,14 @@
 # Hi, I’m Aerin (Phuong Anh) 🇻🇳👋
 
-I build things where **technology meets aesthetics** ✨  
-Coming from a graphic design background, I care not only about how systems work — but how they *feel*.
+I build quiet things where **technology meets aesthetics**.  
+Once a graphic designer, now a developer —  
+thinking in systems, caring about feeling.
 
-## ✦ About Me
-- 🎨 Former graphic designer turned developer  
-- 🤖 Interested in AI, web systems, and product thinking  
-- 🧩 Drawn to clean architecture, good UX, and visual balance  
-- 💡 I like tools that are powerful *and* beautiful
+🎨 from design to code  
+🤖 drawn to AI and the web  
+🧩 clarity, balance, gentle logic  
 
-## ✦ What I Do
-- 🛠 Design and build web applications  
-- ⚙️ Explore AI-assisted workflows and automation  
-- 🎯 Translate ideas from concept → interface → system
-
-## ✦ Tech Stack
-- **Languages:** JavaScript, TypeScript, Python  
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Python  
-- **Cloud:** Google Cloud Platform, Vercel  
-- **AI:** LLMs, Computer Vision, Neuroscience
-
-## ✦ Let’s Connect
-- 📬 Email: **pdpa.work@gmail.com**
-
+JS / TS / Python  
+React, Next.js, Tailwind  
+Node.js, GCP, Vercel  
+LLMs, CV, Neuroscience  
