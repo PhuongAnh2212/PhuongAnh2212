@@ -1,8 +1,7 @@
 # Hi, I’m Aerin (Phuong Anh) 🇻🇳👋
 
 I build quiet things where **technology meets aesthetics**.  
-Once a graphic designer, now a developer —  
-thinking in systems, caring about feeling.
+Once a graphic designer, now a developer
 
 🎨 from design to code  
 🤖 drawn to AI and the web  
